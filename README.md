@@ -1,2 +1,8 @@
 # PHP_AJAX
-My Home Work
+
+# How To Run This Code
+- Drop this program in your htdoc folder
+- Run your xampp 
+- Open localhost/phpmyadmin
+- Import Databse.sql
+- And open localhost/name of program
